@@ -35,7 +35,7 @@ Go to the dashboard to view the sample tickets: <br/>
 <img src="https://snipboard.io/sWxSrz.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click on a ticket and practice:  <br/>
+Click on a ticket and practice assigning, managing, and responding:  <br/>
 <br />
 <img src="https://snipboard.io/UuSct5.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
