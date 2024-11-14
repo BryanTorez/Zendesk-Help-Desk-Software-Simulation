@@ -1,51 +1,51 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Zendesk - Help Desk Software Simulation</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project consists of software platform that can help an individual, or student, learn and practice managing a ticketing system. Zendesk, a popular customer service platform, familiarizes the user with creating, assigning, and responding to tickets. It's other advanced features include analytic insights about ticket respond times and customer satisfaction.
+
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>What I learned...</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Ticketing System</b> 
+- <b>Help Center and Knowledge Base</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b>
 
-<h2>Program walk-through:</h2>
+<h2>Platform walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Start your free trial: <br/>
+<img src="https://snipboard.io/FIGbRH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go to trial home to learn about the system platform:  <br/>
+<img src="https://snipboard.io/cUCdps.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go to the dashboard to view the sample tickets: <br/>
+<img src="https://snipboard.io/sWxSrz.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on a ticket and practice:  <br/>
+<img src="https://snipboard.io/UuSct5.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on reporting and analytics:  <br/>
+<img src="https://snipboard.io/NJnUDd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+:  <br/>
+<img src="https://snipboard.io/fx2ZdR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+By looking at the analytics and reportings 
 
 <!--
  ```diff
