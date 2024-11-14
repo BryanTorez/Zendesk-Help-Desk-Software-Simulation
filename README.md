@@ -1,6 +1,5 @@
 <h1>Zendesk - Help Desk Software Simulation</h1>
 
- ### [Zendesk Tutorial Demonstration ](https://www.youtube.com/watch?v=SXxZxRNwGDw)
 
 <h2>Description</h2>
 This project consists of a software platform that can help an individual or student learn and practice managing a ticketing system. Zendesk, a popular customer service platform, familiarizes the user with creating, assigning, and responding to tickets. Its other advanced features include analytic insights about ticket response times and customer satisfaction.
